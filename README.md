@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/psiquee/psiquee/issues)**
 
-⚡ Fun fact **I’m like watching Harry Potter and playing CS2**
+⚡ Fun fact **I like watching movies and playing chess.**
 
  </div>
  

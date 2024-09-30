@@ -53,10 +53,11 @@
 </div>
 
 
-<hr/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=psiquee&show_icons=true&locale=en" alt="psiquee" />
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiquee&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </p> 
+
+<hr/>
 
 <br/>
